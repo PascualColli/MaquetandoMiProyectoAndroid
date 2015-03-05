@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yxch_MiProyecto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_txt">El mejor lugar para comer</string>
+    <string name="welcome_txt_small">Una tradicion desde 1980</string>
+
+
+</resources>
